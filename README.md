@@ -20,7 +20,7 @@ A resumable accept/edit/reject/defer contract that preserves originals, binds de
 A model-agnostic specification and offline evaluator for isolated contexts, deny-by-default capability policy, one-use approvals, and redacted audit records. Python; 22 focused tests.
 
 ### [Legacy KDS Field Watch](https://github.com/DHowDev/legacy-kds-field-watch)
-A clean-room reconstruction of a paid onsite field deployment on an unsupported Windows 8 restaurant display: passive no-popup capture boundaries, broad red-panel qualification, and ticket-identity deduplication that alerts on a replacement without flooding repeats. Python; 21 focused tests with synthetic fixtures only. No client screens, identities, payment records, credentials, or private topology.
+A clean-room reconstruction of a paid onsite field deployment on an unsupported Windows 8 restaurant display: passive no-popup capture boundaries, broad red-panel qualification, and clear-aware ticket-identity deduplication informed by two current Windows deployments. Python; 23 focused tests with synthetic fixtures only. No client screens, identities, payment records, credentials, or private topology.
 
 ## Operating and private work
 
